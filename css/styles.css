@@ -156,7 +156,7 @@ header.masthead {
   color: #87bbeb;
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
-  color: #93ada4;
+  color: #ad93ad;
 }
 .navbar-dark .navbar-nav .nav-link.disabled {
   color: rgba(255, 255, 255, 0.25);
@@ -311,7 +311,7 @@ header.masthead {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #eadfc9;
+  background-color: #9dc3ee;
   color: #f8f9fa;
 }
 #mainNav .navbar-toggler {
@@ -335,7 +335,7 @@ header.masthead {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active{
-  color: rgb(124, 207, 180);
+  color: rgb(207, 124, 200);
 } 
 
 #mainNav .navbar-nav .nav-item .nav-link:hover {
