@@ -141,7 +141,7 @@ header.masthead {
 .footer {
   text-align: center;
   font-size: 0.9rem;
-  background-color: #d8a0e5;
+  background-color: #eaebd0;
 }
 
 /* CV navbar styling */
@@ -187,9 +187,9 @@ header.masthead {
 /* Button Styling */
 
 .btn-primary {
-  color: #f8f9fa;
-  background-color: #8c3c9c;
-  border-color: #5b1e94;
+  color: #77fa9f;
+  background-color: #77fa9f;
+  border-color: #77fa9f;
 }
 
 .btn-primary:hover {
@@ -209,8 +209,8 @@ header.masthead {
   border-color: #93ada4;
 }
 .btn-outline-primary {
-  color: rgb(178, 90, 219);
-  border-color: rgb(99, 40, 167);
+  color: rgb(245, 184, 16);
+  border-color: rgb(178, 149, 212);
 }
 .btn-outline-primary:hover {
   color: #fff;
@@ -287,7 +287,7 @@ header.masthead {
 
 .page-section {
   padding: 6rem 0;
-  background-color: #f8f9fa;
+  background-color: #cdd7e2;
 }
 .page-section h2.section-heading {
   font-size: 2.5rem;
@@ -323,7 +323,7 @@ header.masthead {
   border: 0;
 }
 #mainNav .navbar-brand {
-  color: #c346dc;
+  color: #5046dc;
   font-weight: 700;
   letter-spacing: 0.0625em;
   font-family: 'Anton', sans-serif;
@@ -331,11 +331,11 @@ header.masthead {
 
 #mainNav .navbar-nav .nav-item .nav-link {
   font-size: 0.95rem;
-  color: #dc46c8;
+  color: #e7c52a;
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active{
-  color: rgb(207, 124, 200);
+  color: rgb(207, 127, 124);
 } 
 
 #mainNav .navbar-nav .nav-item .nav-link:hover {
@@ -395,7 +395,7 @@ header.masthead {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: #93ada4;
+  background: #63f7c3;
   align-items: center;
   justify-content: center;
   opacity: 0;
@@ -403,7 +403,7 @@ header.masthead {
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
   font-size: 1.25rem;
-  color: white;
+  color: rgb(189, 179, 151);
 }
 #portfolio .portfolio-item .portfolio-link:hover .portfolio-hover {
   opacity: 1;
